@@ -1,0 +1,16 @@
+{
+  "name": "sinaimg2bilibili",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vhvy",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^4.0.0"
+  }
+}
